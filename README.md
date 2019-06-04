@@ -1,7 +1,7 @@
 # Data Classes in Python
 
 Slides for a talk by Tal Einat
-given at Scaling with Python Meetup, Apr. 17, 2019
+given at PyCon Israel 2019.
 
 ## License
 
